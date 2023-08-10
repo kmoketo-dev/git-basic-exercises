@@ -1,3 +1,3 @@
 Vanilla
 Strawberry
-Chocolatey
+Chocolate
